@@ -1,0 +1,15 @@
+PyTorch Libraries
+
+PyTorch
+torchaudio
+torchtext
+torchvision
+TorchElastic
+TorchServe
+PyTorch on XLA Devices
+reffer: https://pytorch.org/vision/main/datasets.html
+https://try.fiftyone.ai/datasets/mnist/samples
+https://try.fiftyone.ai/datasets
+https://github.com/voxel51/voxel51-docs
+https://github.com/andandandand/practical-computer-vision/blob/main/docs/kaggle-gpu-tpu-guide.md#understanding-kaggles-speed-boosters
+https://labelerrors.com/
